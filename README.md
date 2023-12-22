@@ -3,6 +3,8 @@
 
 ## Summary
 - List of references: [bibliography.bib](bibliography.bib)
+- Related Tweets: https://x.com/oscar_j_romero/status/1738160096281022566?s=20
+- [Resources](#resources)
 
 ## Paper Overview
 Overview of the paper "Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis". 
@@ -20,7 +22,8 @@ The modular approach, which introduces four models with varying degrees of integ
 1. The third case presents a tightly integrated model that leverages the synergistic interaction between LLMs and symbolic components of a CA. LLMs extract factual knowledge from the world, automatically populating ontologies. These semantic representations then facilitate the creation of world models, addressing a limitation of LLMs. Furthermore, proper LLM's prompt engineering techniques would produce syntactically and semantically correct CA productions, which can be later compiled by a symbolic engine. However, a drawback of this integrated system is its heavy reliance on LLM outputs, rendering it susceptible to cascading failures, including hallucinations and biases.
 1. The fourth case represents the most tightly integrated model. It involves a module designed for simulating the outcomes of future events. The primary advantage of this case is its capability to anticipate and plan by traversing and backtracking a tree-like structure of possible events. However, similar to the third case, this system heavily relies on the outputs of the LLM, which might occasionally be inconsistent. This inconsistency could lead to erroneous predictions in the early stages of internal simulation, resulting in cascading errors in the planning process. 
 
-<img src="agents.png" width="800" height="400">
+
+![neurosymbolic](agents.png)
 
 The agency approach, motivated by the Society of Mind theory and the LIDA cognitive architecture, proposes the formation of agent collections that interact at micro and macro cognitive levels, driven by either LLMs or symbolic components. 
 
@@ -29,6 +32,7 @@ The agency approach, motivated by the Society of Mind theory and the LIDA cognit
 2. First, agents may encode redundant knowledge, resulting in multiple agents capable of achieving the same competence. This redundancy enhances system resilience as individual agents may fail, yet the system can still yield satisfactory outcomes.
 3. Second, agent role-playing strategies enable the system to self-reflect and promptly rectify potential deviations in reasoning processes. At the macro-level, the Agency approach stands out as the only one among the three approaches that consider inter-agent interactions, with a primary focus on collaborative interactions between agents and humans.
 4. Aspects such as communication, coordination, hierarchies, etc. between agents remain open questions.
+
 
 ![neurosymbolic](neurosymbolic.png)
 
