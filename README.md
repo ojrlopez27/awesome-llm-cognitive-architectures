@@ -3,7 +3,7 @@
 
 ## Summary
 - List of references: [bibliography.bib](bibliography.bib)
-- Related Tweets: https://x.com/oscar_j_romero/status/1738160096281022566?s=20
+- Related Tweets: https://x.com/oscar_j_romero/status/1738166217553117215?s=20
 - [Resources](#resources)
 
 ## Paper Overview
