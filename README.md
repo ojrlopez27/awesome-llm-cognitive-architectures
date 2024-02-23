@@ -79,15 +79,23 @@ Preprint:
 
 ## Resources
 
+### Cognitive Architectures
 - [CLARION cognitive architecture](https://sites.google.com/site/drronsun/clarion/clarion-project)
 - [ACT-R cognitive architecture](http://act-r.psy.cmu.edu/about/)
 - [LIDA cognitive architecture](https://ccrg.cs.memphis.edu/tutorial/)
 - [Common Model of Cognition](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2744)
+
+### LLM + Cognitive Architectures
 - [Voyager: An Open-Ended Embodied Agent with LLM](https://voyager.minedojo.org/)
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
 - [AutoGPT: Build & use AI agents](https://github.com/Significant-Gravitas/AutoGPT)
 - [BabyAGI](https://github.com/yoheinakajima/babyagi)
 - [CoALA](https://github.com/ysymyth/awesome-language-agents/tree/main)
+- [Cyc+LLM (Lenat & Marcus): Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/pdf/2308.04445.pdf)
+- [NARS-Gpt](https://github.com/opennars/NARS-GPT)
+- [Can A Cognitive Architecture Fundamentally Enhance LLMs? Or Vice Versa? (Ron Sun)](https://arxiv.org/pdf/2401.10444.pdf)
+
+
 More coming soon...
 
 
