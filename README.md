@@ -79,6 +79,7 @@ How to cite our paper:
 - [ACT-R cognitive architecture](http://act-r.psy.cmu.edu/about/)
 - [LIDA cognitive architecture](https://ccrg.cs.memphis.edu/tutorial/)
 - [Common Model of Cognition](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2744)
+- [40 years of Cognitive Architectures](https://link.springer.com/article/10.1007/s10462-018-9646-y)
 
 ### LLM + Cognitive Architectures
 **Papers**
@@ -86,9 +87,9 @@ How to cite our paper:
 - [(2023-Wang) Voyager: An Open-Ended Embodied Agent with LLM](https://voyager.minedojo.org/)
 - [(2023-Park) Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
 - [(2023-Lenat-Marcus) Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/pdf/2308.04445.pdf)
-- [(2018-Kotseruba-Tsotsos) 40 years of Cognitive Architectures](https://link.springer.com/article/10.1007/s10462-018-9646-y)
+- [(2023-Summers-et.al) Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)
   
-**Code repositories**
+**Miscellaneous (code repos, talks, resources)**
 - [AutoGPT: Build & use AI agents](https://github.com/Significant-Gravitas/AutoGPT)
 - [BabyAGI](https://github.com/yoheinakajima/babyagi)
 - [CoALA](https://github.com/ysymyth/awesome-language-agents/tree/main)
