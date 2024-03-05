@@ -84,6 +84,7 @@ How to cite our paper:
 ### LLM + Cognitive Architectures
 **Papers**
 - [(2024-Sun) Can A Cognitive Architecture Fundamentally Enhance LLMs? Or Vice Versa? (Ron Sun)](https://arxiv.org/pdf/2401.10444.pdf)
+- [(2023-Weston-et.al) System 2 Attention (is something you might need too)](https://arxiv.org/pdf/2311.11829.pdf)
 - [(2023-Wang) Voyager: An Open-Ended Embodied Agent with LLM](https://voyager.minedojo.org/)
 - [(2023-Park) Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
 - [(2023-Lenat-Marcus) Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/pdf/2308.04445.pdf)
