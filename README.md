@@ -89,7 +89,7 @@ How to cite our paper:
 - [(2023-Park) Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
 - [(2023-Lenat-Marcus) Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/pdf/2308.04445.pdf)
 - [(2023-Summers-et.al) Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)
-- [(2023) AAAI Fall Symposia - Integration of Cognitive Architectures and Generative Models](https://ojs.aaai.org/index.php/AAAI-SS/issue/view/574)
+- [(2023) AAAI Fall Symposia - Integration of Cognitive Architectures and Generative Models (25+ papers)](https://ojs.aaai.org/index.php/AAAI-SS/issue/view/574)
   
 **Miscellaneous (code repos, talks, resources)**
 - [AutoGPT: Build & use AI agents](https://github.com/Significant-Gravitas/AutoGPT)
